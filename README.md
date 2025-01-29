@@ -10,4 +10,4 @@
 
 
 
-[Click Now] (http://127.0.0.1:5500/)
+[Click Now] (https://gamefourpiconeansweramanullah.vercel.app/)
